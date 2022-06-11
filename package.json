@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^16.0.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "mongoose": "^6.3.5",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
